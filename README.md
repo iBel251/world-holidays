@@ -10,12 +10,12 @@ A Global Holiday web app that provides holiday data for 251 countries around the
 - [x] VS Code
 
 ## Website Mockup 📱 💻 🖥️
-
+![image](https://user-images.githubusercontent.com/93576145/176367874-2f605876-ee9a-4c76-8aa4-615eeb647df4.png)
 
 
 ## Live Demo 🔗
 
-not yet
+[World holidays](https://worldholidays.netlify.app/)
 
 ## Getting Started
 
