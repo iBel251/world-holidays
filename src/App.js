@@ -1,8 +1,23 @@
-import './App.css';
+import React from 'react';
+import { Route, Routes } from 'react-router-dom';
+import Header from './components/Header';
+import Home from './pages/home/Home';
+import Country from './pages/country/Country';
+import Footer from './components/Footer';
+import './scss/App.scss';
 
 function App() {
   return (
-    <h1>start</h1>
+    <>
+      <Header />
+      <main>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/:country_code" element={<Country />} />
+        </Routes>
+      </main>
+      <Footer />
+    </>
   );
 }
 
