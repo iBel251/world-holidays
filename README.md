@@ -78,7 +78,7 @@ Give a ⭐️ if you like this project!
 
 - Microverse
 - Code Reviewers
-
+- [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the author of the original design. 
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
